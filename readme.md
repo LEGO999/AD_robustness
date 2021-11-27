@@ -40,7 +40,7 @@ AD_robustness
 │  │  cifar-10-python.tar.gz $CIFAR-10 test set, need not to download manually$
 │  │  test_32x32.mat $SVHN test set, need not to download manually$
 │  │  
-│  ├─cifar-10-batches-py
+│  ├─cifar-10-batches-py $CIFAR-10 test set, need not to download manually$
 │  │      ......
 │  │      
 │  ├─CIFAR-10-C
